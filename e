@@ -1,1 +1,4 @@
 egg
+elephant
+editor
+eraser
